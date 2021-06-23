@@ -139,11 +139,10 @@ const Tabs = ({ activeTabName, onClickTab }) => {
               <table className="table">
                 <thead>
                   <tr>
-                    <th>
-                      <th>Basic</th>
-                      <th>Standard</th>
-                      <th>Premium</th>
-                    </th>
+                    <th></th>
+                    <th>Basic</th>
+                    <th>Standard</th>
+                    <th>Premium</th>
                   </tr>
                 </thead>
                 <tbody>
